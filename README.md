@@ -15,7 +15,7 @@
 
 ### Vias de contacto
 
-📧 [Gmail] (<eddytalavera073@gmail.com>)
+📧  (<eddytalavera073@gmail.com>)
 
 🔵 [Facebook](https://www.facebook.com/alexis.talavera.503?locale=es_LA)
 
