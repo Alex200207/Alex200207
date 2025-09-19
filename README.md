@@ -17,8 +17,3 @@
 
 📧  (<eddytalavera073@gmail.com>)
 
-🔵 [Facebook](https://www.facebook.com/alexis.talavera.503?locale=es_LA)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alex200207/Alex200207)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alex200207/TimeApp)
