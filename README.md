@@ -93,13 +93,16 @@
 <!--START_SECTION:waka-->
 ### ⏱️ Mis estadísticas de programación (WakaTime)
 
+#### Tiempo de código esta semana
 ![Tiempo de código esta semana](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_7_days&langs_count=8&layout=compact&theme=radical)
 
+#### Proyectos más activos (últimos 30 días)
 ![Proyectos más activos](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_30_days&langs_count=5&layout=compact&theme=radical&projects=true)
 
+#### Lenguajes más usados (últimos 30 días)
 ![Tiempo por lenguaje](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_30_days&langs_count=6&layout=compact&theme=radical&langs=true)
 
-[Ver mi perfil en WakaTime](https://wakatime.com/@Alex200207)
+[Ver mi perfil completo en WakaTime](https://wakatime.com/@Alex200207)
 <!--END_SECTION:waka-->
 
 **Cronología**
