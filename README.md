@@ -68,13 +68,6 @@
 <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
 </p>
-
----
-
-## 📆 Actividad en GitHub este año
-
-[![GitHub Activity Graph](https://github-contribution-graph.vercel.app/api?username=Alex200207&theme=github-compact)](https://github.com/Alex200207)
-
 ---
 
 <h2>📊 Github Stats y Actividad</h2>
@@ -93,14 +86,23 @@
 <!--START_SECTION:waka-->
 ### ⏱️ Mis estadísticas de programación (WakaTime)
 
-#### Tiempo de código esta semana
-![Tiempo de código esta semana](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_7_days&langs_count=8&layout=compact&theme=radical)
+#### 🗓 Tiempo de código esta semana
+![Tiempo de código esta semana](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
 
-#### Proyectos más activos (últimos 30 días)
-![Proyectos más activos](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_30_days&langs_count=5&layout=compact&theme=radical&projects=true)
+#### 💻 Lenguajes más usados (últimos 30 días)
+![Lenguajes más usados](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
 
-#### Lenguajes más usados (últimos 30 días)
-![Tiempo por lenguaje](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_30_days&langs_count=6&layout=compact&theme=radical&langs=true)
+#### 📂 Proyectos más activos (últimos 30 días)
+![Proyectos más activos](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
+
+#### 🔥 Streak de programación
+![Streak](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
+
+#### 📊 Commits y líneas de código por día
+![Commits por día](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
+
+#### 📈 Tiempo de código por hora
+![Tiempo por hora](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
 
 [Ver mi perfil completo en WakaTime](https://wakatime.com/@Alex200207)
 <!--END_SECTION:waka-->
