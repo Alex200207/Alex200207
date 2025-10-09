@@ -91,7 +91,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-[![Code Time](https://wakatime.com/badge/user/tu_usuario/waka-time-stats.svg)](https://wakatime.com/@tu_usuario)
+[![Code Time](https://wakatime.com/badge/user/Alex200207/waka-time-stats.svg)](https://wakatime.com/@tu_usuario)
 <!--END_SECTION:waka-->
 
 **Cronología**
