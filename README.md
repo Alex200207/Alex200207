@@ -1,19 +1,23 @@
-# Hi there 👋,I'm Alex  👨‍💻 FrontEnd Dev.
+# Estadísticas de GitHub
 
-:computer: Ingeniero en Sistemas
-:pencil:**Estudiante Activo**
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Alex200207&show_icons=true&theme=radical)
 
-## Soy un desarrollador web apasionado, Me encanta crear interfaces de usuario eficientes y atractivas
+## Lenguajes
 
-### Tecnologías
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex200207&layout=compact&theme=radical)
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-- ![ShadCN](https://img.shields.io/badge/-ShadCN-000000?logo=shadcn&logoColor=white&style=flat)
+# Información de LinkedIn
 
-### Vias de contacto
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil) donde comparto mi experiencia y proyectos.
 
-📧  (<eddytalavera073@gmail.com>)
+## Experiencia con MUI
 
+He trabajado en varios proyectos utilizando Material-UI (MUI), lo que me ha permitido crear interfaces de usuario atractivas y funcionales.
+
+# WakaTime
+
+![](https://wakatime.com/badge/user/tu-usuario.svg)
+
+# Organización Visual y Profesional
+
+Este README está diseñado para ser claro y fácil de navegar, presentando información relevante de manera profesional.
