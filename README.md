@@ -91,9 +91,8 @@
 <br/>
 
 <!--START_SECTION:waka-->
-[![Code Time](https://wakatime.com/badge/user/Alex200207/waka-time-stats.svg)](https://wakatime.com/@Alex200207)
+[![WakaTime Stats](wakatime/stats.svg)](https://wakatime.com/@Alex200207)
 <!--END_SECTION:waka-->
-
 **Cronología**
 ![Lines of Code chart](https://raw.githubusercontent.com/Alex200207/Alex200207/main/assets/bar_graph.png)
 <p align="center"> <img src="https://profile-counter.glitch.me/Alex200207/count.svg" alt="Alex200207" /> </p>
