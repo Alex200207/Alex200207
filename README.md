@@ -86,26 +86,11 @@
 <!--START_SECTION:waka-->
 ### ⏱️ Mis estadísticas de programación (WakaTime)
 
-#### 🗓 Tiempo de código esta semana
 ![Tiempo de código esta semana](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
-
-#### 💻 Lenguajes más usados (últimos 30 días)
-![Lenguajes más usados](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
-
-#### 📂 Proyectos más activos (últimos 30 días)
-![Proyectos más activos](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
-
-#### 🔥 Streak de programación
-![Streak](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
-
-#### 📊 Commits y líneas de código por día
-![Commits por día](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
-
-#### 📈 Tiempo de código por hora
-![Tiempo por hora](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
 
 [Ver mi perfil completo en WakaTime](https://wakatime.com/@Alex200207)
 <!--END_SECTION:waka-->
+
 
 **Cronología**
 ![Lines of Code chart](https://raw.githubusercontent.com/Alex200207/Alex200207/main/assets/bar_graph.png)
