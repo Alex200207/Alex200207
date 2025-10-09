@@ -2,7 +2,7 @@ name: Actualizar estadísticas WakaTime
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: "0 0 * * *"  # todos los días a medianoche
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,15 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_OS: "False"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_COMMIT: "True"
+          COMMIT_MESSAGE: "Actualizando estadísticas de WakaTime"
+          LOCALE: "es"
