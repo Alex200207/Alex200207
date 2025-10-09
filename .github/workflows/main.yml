@@ -2,7 +2,7 @@ name: Update WakaTime Stats SVG
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # every 6 hours
+    - cron: '0 */6 * * *' # cada 6 horas
   workflow_dispatch:
 
 permissions:
@@ -16,13 +16,24 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate SVG from Vercel API
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq curl
+
+      - name: Fetch WakaTime stats
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          mkdir -p wakatime
-          curl -s "https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=Alex200207&api_key=$WAKATIME_API_KEY" \
-            -o wakatime/stats.svg
+          # Llamada a la API oficial de WakaTime para últimos 7 días
+          response=$(curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=$WAKATIME_API_KEY")
+          
+          # Extraer tiempo total en horas y minutos
+          total_seconds=$(echo "$response" | jq '.data.total_seconds')
+          hours=$((total_seconds / 3600))
+          minutes=$(((total_seconds % 3600) / 60))
+          
+          # Generar SVG usando shields.io
+          svg_url="https://img.shields.io/badge/Code%20Time-${hours}h%20${minutes}m-blue?style=flat-square"
+          curl -s "$svg_url" -o wakatime/stats.svg
 
       - name: Commit SVG to repo
         run: |
