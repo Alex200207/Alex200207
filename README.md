@@ -91,15 +91,14 @@
 <br/>
 
 <!--START_SECTION:waka-->
-[![Code Time](https://wakatime.com/badge/user/Alex200207/waka-time-stats.svg)](https://wakatime.com/@tu_usuario)
+[![Code Time](https://wakatime.com/badge/user/Alex200207/waka-time-stats.svg)](https://wakatime.com/@Alex200207)
 <!--END_SECTION:waka-->
 
 **Cronología**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Alex200207/Alex200207/main/assets/bar_graph.png)
 
-https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=your_wakatime_username&api_key=your_api_key"
- Last Updated on 09/10/2025 17:43:13 UTC
+ <img src='https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=your_wakatime_username&api_key=your_api_key' height='30'/>
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://profile-counter.glitch.me/Alex200207/count.svg" alt="Alex200207" /> </p>
