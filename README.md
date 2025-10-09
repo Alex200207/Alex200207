@@ -13,8 +13,8 @@
 - 🎓 Soy **ingeniero en sistemas** y estudiante activo.
 - 💻 Me especializo en **FrontEnd** (React, MUI, TypeScript, Tailwind) y explorando backend con Node.js.
 - 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas web.
-- 🤔 Hobbies: escuchar música 🎵 y jugar videojuegos 🎮.
-- 💬 ¿Tienes dudas o quieres colaborar? **¡Escríbeme!**
+- 🤔 Hobbies: escuchar música, Programar🎵 y jugar videojuegos 🎮.
+- 💬 ¿Tienes dudas o queres trabajar con migo? **¡Escríbeme!**
 - 📝 Conecta en [LinkedIn](https://www.linkedin.com/in/alex-talavera-57a8b12a2/)
 
 <h3 align="left">📫 ¿Cómo contactarme?</h3>
