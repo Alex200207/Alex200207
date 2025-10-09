@@ -91,7 +91,81 @@
 <br/>
 
 <!--START_SECTION:waka-->
-->
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-3-blue)
+
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-2.7%20million%20Lineas%20de%20c%C3%B3digo-blue)
+
+**🐱 Mis datos de GitHub** 
+
+> 📦 131.4 kB Almacenamiento de GitHub utilizado 
+ > 
+> 🏆 1,671 Contribuciones durante el año 2025
+ > 
+> 🚫 No abierto para contratación
+ > 
+> 📜 63 Repositorios Públicos 
+ > 
+> 🔑 17 Repositorios Privados 
+ > 
+**Soy diurno 🐤** 
+
+```text
+🌞 Mañana                 1254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+🌆 Día                    4571 commits        ████████████░░░░░░░░░░░░░   49.37 % 
+🌃 Tarde                  3310 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
+🌙 Noche                  123 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+```
+📅 **Soy más productivo los Miércoles** 
+
+```text
+Lunes                    1409 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Martes                   1960 commits        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Miércoles                1970 commits        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Jueves                   1733 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Viernes                  899 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Sábado                   214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Domingo                  1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+```
+
+
+📊 **Esta semana me dediqué a** 
+
+```text
+🕑︎ Zona Horaria: America/Managua
+
+💬 Lenguajes: 
+Sin actividad registrada esta semana
+
+🔥 Editores: 
+Sin actividad registrada esta semana
+
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
+
+💻 Sistema Operativo: 
+Sin actividad registrada esta semana
+```
+
+**Programo principalmente en TypeScript** 
+
+```text
+TypeScript               27 repos            ███████████░░░░░░░░░░░░░░   43.55 % 
+JavaScript               18 repos            ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+```
+
+
+
+**Cronología**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Alex200207/Alex200207/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/10/2025 17:43:13 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://profile-counter.glitch.me/Alex200207/count.svg" alt="Alex200207" /> </p>
