@@ -95,12 +95,7 @@
 <!--END_SECTION:waka-->
 
 **Cronología**
-
 ![Lines of Code chart](https://raw.githubusercontent.com/Alex200207/Alex200207/main/assets/bar_graph.png)
-
- <img src='https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=your_wakatime_username&api_key=your_api_key' height='30'/>
-<!--END_SECTION:waka-->
-
 <p align="center"> <img src="https://profile-counter.glitch.me/Alex200207/count.svg" alt="Alex200207" /> </p>
 
 <a href="https://github.com/Alex200207#gh-dark-mode-only">
