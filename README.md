@@ -81,12 +81,11 @@
 
 <h3>🔥 Racha de actividad</h3>
 <p>
-<img alt="Alex's streak" src="https://streak-stats.demolab.com?user=Alex200207&theme=radical&hide_border=true&background=000000EE" />
+<img alt="Alex's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alex200207&theme=radical&hide_border=true&background=000000EE" />
 </p>
 
 <h3>💻 Estadísticas de GitHub</h3>
 <p>
-<img alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alex200207&show_icons=true&theme=radical&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&cache_seconds=86400" height="192px"/>
 <img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex200207&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&cache_seconds=86400" height="192px"/>
 </p>
 <br/>
