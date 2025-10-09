@@ -91,8 +91,17 @@
 <br/>
 
 <!--START_SECTION:waka-->
-[![WakaTime Stats](wakatime/stats.svg)](https://wakatime.com/@Alex200207)
+### ⏱️ Mis estadísticas de programación (WakaTime)
+
+![Tiempo de código esta semana](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_7_days&langs_count=8&layout=compact&theme=radical)
+
+![Proyectos más activos](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_30_days&langs_count=5&layout=compact&theme=radical&projects=true)
+
+![Tiempo por lenguaje](https://github-readme-stats.vercel.app/api/wakatime?username=Alex200207&range=last_30_days&langs_count=6&layout=compact&theme=radical&langs=true)
+
+[Ver mi perfil en WakaTime](https://wakatime.com/@Alex200207)
 <!--END_SECTION:waka-->
+
 **Cronología**
 ![Lines of Code chart](https://raw.githubusercontent.com/Alex200207/Alex200207/main/assets/bar_graph.png)
 <p align="center"> <img src="https://profile-counter.glitch.me/Alex200207/count.svg" alt="Alex200207" /> </p>
