@@ -98,7 +98,7 @@
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Alex200207/Alex200207/main/assets/bar_graph.png)
 
-
+https://wakatime-readme-stats.vercel.app/api/wakatimeStats?username=your_wakatime_username&api_key=your_api_key"
  Last Updated on 09/10/2025 17:43:13 UTC
 <!--END_SECTION:waka-->
 
