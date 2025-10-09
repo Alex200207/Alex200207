@@ -87,7 +87,7 @@
 ### ⏱️ Mis estadísticas de programación (WakaTime)
 
 ![Tiempo de código esta semana](https://wakatime.com/share/@Alex200207/d8271fd5-18ba-4749-85b1-bb837a903f9c.svg)
-
+[![wakatime](https://wakatime.com/badge/user/392294c7-9861-4621-a82f-37971c738ebf.svg)](https://wakatime.com/@392294c7-9861-4621-a82f-37971c738ebf)
 [Ver mi perfil completo en WakaTime](https://wakatime.com/@Alex200207)
 <!--END_SECTION:waka-->
 
