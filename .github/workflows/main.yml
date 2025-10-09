@@ -2,7 +2,7 @@ name: Actualizar estadísticas WakaTime
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Corre todos los días a medianoche UTC
+    - cron: '0 0 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -23,4 +23,3 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LINES_OF_CODE: "True"
-          WAKATIME_RANGE: "year"
